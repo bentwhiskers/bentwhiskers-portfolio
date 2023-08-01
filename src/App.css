@@ -21,24 +21,29 @@
 
 /* custom styling for nav tabs */
 
-#mytabs .tab-pane {
-  border: solid 1px darkgray;
-  border-bottom: 0;
+#nav .active {
+  color: #FFF;
+  background-color: #cdb4db;
+  border-radius: 15px 15px 0px 0px
   
 }
 
 #mytabs .tab-pane #L1 {
   background-color: #FF70A6;
+  border-radius: 15px 15px 0px 0px
 }
 
 #mytabs .tab-pane #L2 {
   background-color: #FF9770;
+  border-radius: 15px 15px 0px 0px
 }
 
 #mytabs .tab-pane #L3 {
   background-color: #70D6FF;
+  border-radius: 15px 15px 0px 0px
 }
 
 #mytabs .tab-pane #L4 {
   background-color: #FFD670;
+  border-radius: 15px 15px 0px 0px;
 }
